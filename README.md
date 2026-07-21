@@ -48,19 +48,19 @@ The model is trained on annotated medical images and is capable of generating pi
 
 > Replace with your screenshot
 
-<img src="images/input.png" width="300">
+<img src="input.png" width="300">
 
 ---
 
 ## Ground Truth Mask
 
-<img src="images/mask.png" width="300">
+<img src="ground.png" width="300">
 
 ---
 
 ## Predicted Segmentation
 
-<img src="images/prediction.png" width="300">
+<img src="prediction.png" width="300">
 
 ---
 
@@ -217,19 +217,22 @@ streamlit run app.py
 
 ## Home Page
 
-> Add Screenshot
+
+<img src="home.png" width="300">
 
 ---
 
 ## Prediction
 
-> Add Screenshot
+
+<img src="ground.png" width="300">
 
 ---
 
 ## Segmentation Output
 
-> Add Screenshot
+
+<img src="prediction.png" width="300">
 
 ---
 
