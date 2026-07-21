@@ -48,7 +48,7 @@ The model is trained on annotated medical images and is capable of generating pi
 
 > Replace with your screenshot
 
-<img src="input.png" width="600">
+<img src="IN.png" width="600">
 
 ---
 
