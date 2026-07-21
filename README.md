@@ -54,7 +54,7 @@ The model is trained on annotated medical images and is capable of generating pi
 
 ## Ground Truth Mask
 
-<img src="ground.png" width="300">
+<img src="segmentation.png" width="300">
 
 ---
 
@@ -225,14 +225,14 @@ streamlit run app.py
 ## Prediction
 
 
-<img src="ground.png" width="300">
+<img src="prediction.png" width="300">
 
 ---
 
 ## Segmentation Output
 
 
-<img src="prediction.png" width="300">
+<img src="segmentation.png" width="300">
 
 ---
 
