@@ -44,14 +44,6 @@ The model is trained on annotated medical images and is capable of generating pi
 
 # 📸 Demo
 
-## Input Image
-
-> Replace with your screenshot
-
-<img src="IN.png" width="600">
-
----
-
 ## Ground Truth Mask
 
 <img src="segmentation.png" width="300">
